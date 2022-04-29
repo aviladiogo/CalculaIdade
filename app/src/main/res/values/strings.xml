@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgeTime</string>
+    <string name="age_result">Sua idade é: %s</string>
+</resources>
